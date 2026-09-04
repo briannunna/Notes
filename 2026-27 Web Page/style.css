@@ -1,1 +1,7 @@
 body {background-color: red;}
+header {height: 100px; background-color: white;}
+nav {height: 25px; background-color: yellow;}
+main {height: 500px; background-color: blue;}
+article {height: 450px; background-color: green; width: 70%; float: left; border-radius: 8px; margin: 5px; padding: 5px;}
+aside {height: 150; background-color: purple; width: 25%; float: right;}
+footer {height: 200px; background-color: white;}
